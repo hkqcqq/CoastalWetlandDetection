@@ -6,4 +6,4 @@ Detecting Coastal Wetland Degradation by Combining Remote Sensing and Hydrologic
 2. Hydrologic simulations of groundwater tables and saltwater tables from PIHM-wetland
 
 
-Groundwater table and saltwater table simulations from the PIHM-Wetland model are available on reasonable request from the corresponding author due to that they are prohibitively large to store in a repository.
+Groundwater table and saltwater table simulation outputs from the PIHM-Wetland model are available on reasonable request from the corresponding author due to that they are prohibitively large to store in a repository.
